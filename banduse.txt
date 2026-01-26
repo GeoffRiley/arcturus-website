@@ -1,0 +1,6 @@
+Fri Feb 28 1997, 125 Requests, totalling 1 MB
+Sat Mar 1 1997, 195 Requests, totalling 1 MB
+Mon Mar 3 1997, 139 Requests, totalling 1 MB
+Tue Mar 4 1997, 207 Requests, totalling 1 MB
+Wed Mar 5 1997, 237 Requests, totalling 1 MB
+Thu Mar 6 1997, 179 Requests, totalling 1 MB

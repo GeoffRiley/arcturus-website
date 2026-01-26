@@ -1,0 +1,9 @@
+# robots.txt : robot search engine permissions file for www.arcturus\.geoffandcarole.co.uk
+#
+# Maintained by Geoff Riley <mailto:geoffr@arcturus\.geoffandcarole.co.uk>
+
+User-agent: *
+Disallow: /data/
+Disallow: /cgi-bin/
+
+# End of robots.txt
