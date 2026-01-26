@@ -1,0 +1,589 @@
+{
+  "total": 87,
+  "successful": 24,
+  "unknown": 0,
+  "unsupported": 1,
+  "timeouts": 3,
+  "redirects": 34,
+  "excludes": 2,
+  "errors": 23,
+  "cached": 0,
+  "success_map": {},
+  "error_map": {
+    "https://arcturus.geoffandcarole.co.uk/": [
+      {
+        "url": "http://www.sendit.com/scp/id/arcturus/zone/buffy",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www-cache.daz3d.com/bannerimages/DAZBanr3.jpg",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www-cache.daz3d.com/bannerimages/DAZBanr3.jpg))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www.pendulumclocks.co.uk/",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www.pendulumclocks.co.uk/))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www-cache.daz3d.com/bannerimages/DAZcurrent_468x60.jpg",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www-cache.daz3d.com/bannerimages/DAZcurrent_468x60.jpg))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www.sendit.com/img/ldimg/scp/boxes_mar04/go.gif",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.homepages.demon.co.uk/icons/stanford/line.rainbow.gif",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www.homepages.demon.co.uk/icons/stanford/line.rainbow.gif))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www.sadgeezer.com/html/modules.php?op=modload&name=Sections&file=index&req=listarticles&secid=4",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.outdooridiots.com/features/20060201/articles/a20060201_tarps.asp",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.steveandsteff.com/",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www.steveandsteff.com/))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www-cache.daz3d.com/bannerimages/start_here_120x90.jpg",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www-cache.daz3d.com/bannerimages/start_here_120x90.jpg))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www.sendit.com/img/ldimg/scp/boxes_mar04/logo_152x40.gif",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.qtsmcr.freeserve.co.uk/",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www.qtsmcr.freeserve.co.uk/))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www.sendit.com/scp/id/arcturus",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.sendit.com/scp/id/arcturus/zone/farscape",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.redcentreassociates.com/",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www.redcentreassociates.com/))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www.sendit.com/circle/search",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.outdooridiots.com/features/20060201/photographs/p20060201_climbingisdangerous.asp",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.stmaryslymm.chestercursillo.org/",
+        "status": {
+          "text": "Network error: Connection closed before response completed (error sending request for url (http://www.stmaryslymm.chestercursillo.org/))",
+          "details": "Connection closed before response completed"
+        }
+      },
+      {
+        "url": "http://uk.nedstat.net/",
+        "status": {
+          "text": "Timeout"
+        }
+      },
+      {
+        "url": "http://www.daz3d.com/redirects/daz_current.php?refid=955694736&b=20",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.e-frontier.com/article/articleview/1597/1/281",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 404
+        }
+      },
+      {
+        "url": "http://www.northwesthipsltd.com/",
+        "status": {
+          "text": "Network error: Connection failed. Check network connectivity and firewall settings (error sending request for url (http://www.northwesthipsltd.com/))",
+          "details": "Connection failed. Check network connectivity and firewall settings"
+        }
+      },
+      {
+        "url": "http://www.lexxfanclub.org/",
+        "status": {
+          "text": "Rejected status code (this depends on your \"accept\" configuration)",
+          "code": 403
+        }
+      },
+      {
+        "url": "http://www.onlinelogs.co.uk/",
+        "status": {
+          "text": "Timeout"
+        }
+      },
+      {
+        "url": "http://www.theshrubshop.co.uk/",
+        "status": {
+          "text": "Network error: Connection closed before response completed (error sending request for url (http://www.theshrubshop.co.uk/))",
+          "details": "Connection closed before response completed"
+        }
+      },
+      {
+        "url": "http://games.world.co.uk/",
+        "status": {
+          "text": "Timeout"
+        }
+      }
+    ]
+  },
+  "suggestion_map": {},
+  "redirect_map": {
+    "https://arcturus.geoffandcarole.co.uk/": [
+      {
+        "url": "http://www.onlinegravel.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.onlinegravel.co.uk/",
+            "https://www.onlineturf.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.onlineaggregates.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.onlineaggregates.co.uk/",
+            "https://www.onlineturf.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.daz3d.com/index.php?refid=955694736",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.daz3d.com/index.php?refid=955694736",
+            "https://www.daz3d.com/index.php?refid=955694736",
+            "https://www.daz3d.com/home?refid=955694736",
+            "https://www.daz3d.com/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=riscosring;random",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=riscosring;random",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.onlinesand.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.onlinesand.co.uk/",
+            "https://www.onlinesand.co.uk/",
+            "https://onlinesand.co.uk/",
+            "https://www.onlineturf.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;sprev",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;sprev",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=riscosring;id=28;prev",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=riscosring;id=28;prev",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.onlineslate.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.onlineslate.co.uk/",
+            "https://www.onlineturf.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;skip",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;skip",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.google.co.uk/custom",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.google.co.uk/custom",
+            "https://www.google.co.uk/search",
+            "https://www.google.co.uk/webhp",
+            "https://www.google.com/webhp"
+          ]
+        }
+      },
+      {
+        "url": "http://n.webring.com/hub?ring=cursillo",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://n.webring.com/hub?ring=cursillo",
+            "https://webring.com/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.onlinesoil.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.onlinesoil.co.uk/",
+            "https://www.onlinesoil.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.daz3d.com/index.php?refid=955694736&b=10",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.daz3d.com/index.php?refid=955694736&b=10",
+            "https://www.daz3d.com/index.php?refid=955694736&b=10",
+            "https://www.daz3d.com/home?refid=955694736&b=10",
+            "https://www.daz3d.com/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.playareabark.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.playareabark.co.uk/",
+            "https://www.playareabark.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "https://arcturus.geoffandcarole.co.uk/cursillo",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "https://arcturus.geoffandcarole.co.uk/cursillo",
+            "https://arcturus.geoffandcarole.co.uk/cursillo/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.sendit.com/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.sendit.com/",
+            "https://www.sendit.com/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;prev",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;prev",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;random",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;random",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.onlineseeds.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.onlineseeds.co.uk/",
+            "https://www.onlineturf.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;prev5",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;prev5",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.onlinebark.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.onlinebark.co.uk/",
+            "https://www.onlineturf.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.onlineturf.co.uk/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.onlineturf.co.uk/",
+            "https://www.onlineturf.co.uk/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.outdooridiots.com/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.outdooridiots.com/",
+            "https://www.outdooridiots.com/",
+            "https://outdooridiots.com/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.geocities.com/anutylou/index.html",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.geocities.com/anutylou/index.html",
+            "https://www.yahoo.com/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.daz3d.com/index.php?refid=955694736&b=12",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.daz3d.com/index.php?refid=955694736&b=12",
+            "https://www.daz3d.com/index.php?refid=955694736&b=12",
+            "https://www.daz3d.com/home?refid=955694736&b=12",
+            "https://www.daz3d.com/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=riscosring;id=28;next",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=riscosring;id=28;next",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=riscosring;list",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=riscosring;list",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=riscosring",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=riscosring",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.daz3d.com/program/studio/1_0index.php?refid=955694736",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.daz3d.com/program/studio/1_0index.php?refid=955694736",
+            "https://www.daz3d.com/program/studio/1_0index.php?refid=955694736",
+            "https://www.daz3d.com/get_studio?refid=955694736"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;next",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;next",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;next5",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;next5",
+            "https://webring.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.elcometer.com/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.elcometer.com/",
+            "https://www.elcometer.com/en/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.stmaryslymm.org/",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.stmaryslymm.org/",
+            "https://www.stmaryslymm.org/"
+          ]
+        }
+      },
+      {
+        "url": "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;list",
+        "status": {
+          "text": "Redirect",
+          "code": 200,
+          "redirects": [
+            "http://www.webring.org/cgi-bin/webring?ring=Cursillo;id=10;list",
+            "https://webring.org/"
+          ]
+        }
+      }
+    ]
+  },
+  "excluded_map": {},
+  "duration_secs": 47,
+  "detailed_stats": false
+}

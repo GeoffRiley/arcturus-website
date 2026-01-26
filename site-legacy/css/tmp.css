@@ -10920,7 +10920,7 @@ body.modalShown {
 }
 
 body.skin-oasis {
-    background: #000000 url("http://vignette3.wikia.nocookie.net/crusaders-of-the-lost-idols/images/5/50/Wiki-background/revision/latest?cb=20150815172526") top left repeat;
+    background: #000000 url("https://vignette3.wikia.nocookie.net/crusaders-of-the-lost-idols/images/5/50/Wiki-background/revision/latest?cb=20150815172526") top left repeat;
 }
 
 body.skin-oasis.background-not-tiled {
@@ -10936,7 +10936,7 @@ body.background-dynamic.skin-oasis {
 }
 
 body.background-dynamic.skin-oasis::after, body.background-dynamic.skin-oasis::before {
-    background-image: url("http://vignette3.wikia.nocookie.net/crusaders-of-the-lost-idols/images/5/50/Wiki-background/revision/latest?cb=20150815172526");
+    background-image: url("https://vignette3.wikia.nocookie.net/crusaders-of-the-lost-idols/images/5/50/Wiki-background/revision/latest?cb=20150815172526");
     background-repeat: no-repeat;
     content: '';
     height: 508px;
