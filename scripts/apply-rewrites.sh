@@ -12,7 +12,7 @@ ROOT="${2:-site-legacy}"
 
 while IFS=$'\t' read -r from to; do
   # Escape for sed
-  f_esc=$(printf '%s\n' "$from" | sed 's/[\/&]/\\&/g')
+  f_esc=$(printf '%s\n' "$from" | sed 's/[][\\/.*^$]/\\&/g')
   t_esc=$(printf '%s\n' "$to" | sed 's/[\/&]/\\&/g')
 
   # Replace in common web files
